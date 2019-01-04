@@ -12,5 +12,6 @@ public class Anagram {
 			System.out.println("It is anagram");
 		else
 			System.out.println("Not a anagram");
+		scan.close();
 	}
 }
